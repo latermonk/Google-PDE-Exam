@@ -1,5 +1,13 @@
 # Google-PDE-Exam
 
+
+
+
+##  storage option
+
+![storage-option](_image/storage-option.png)
+
+
 ## bigtable
 **Hbase**
 
