@@ -11,6 +11,13 @@ https://gcp.solutions/
 
 
 ## bigtable
+
+###  bigtable
+
+https://cloud.google.com/bigtable/docs/cbt-reference?hl=zh-cn
+
+
+
 **Hbase**
 
 
