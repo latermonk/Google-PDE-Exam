@@ -8,6 +8,7 @@ https://acloud.guru/forums/gcp-certified-professional-data-engineer/
 
 
 
+
 ##  GCP Solutions
 https://gcp.solutions/
 
