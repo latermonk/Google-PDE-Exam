@@ -24,3 +24,8 @@ mvn compile exec:java -Dexec.mainClass=org.apache.beam.examples.WordCount \
 
 #  Apache Beam编程框架介绍   
 https://wenku.baidu.com/view/177a29272a160b4e767f5acfa1c7aa00b52a9dc1.html   
+
+
+#  下一代实时流数据处理平台介绍 
+https://wenku.baidu.com/view/bff9f6c7cf2f0066f5335a8102d276a20129604a.html?fr=search-3   
+
