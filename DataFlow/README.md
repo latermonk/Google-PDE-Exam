@@ -1,3 +1,10 @@
+#  the-world-beyond-batch-streaming  101 & 102
+
+https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/
+
+https://www.oreilly.com/radar/the-world-beyond-batch-streaming-102/
+
+
 
 https://beam.apache.org/get-started/quickstart-java/     
 https://cloud.google.com/dataflow/docs/quickstarts/quickstart-java-maven    
