@@ -1,0 +1,2 @@
+https://cloud.google.com/bigquery/docs/best-practices-performance-overview
+
