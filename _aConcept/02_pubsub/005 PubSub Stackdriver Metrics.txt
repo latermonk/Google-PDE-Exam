@@ -1,0 +1,1 @@
+https://cloud.google.com/monitoring/api/metrics_gcp#gcp-pubsub
