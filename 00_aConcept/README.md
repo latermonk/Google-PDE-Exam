@@ -98,5 +98,103 @@ DB COMPARISON Google Cloud Bigtable vs Google Cloud Datastore [http://stackoverf
 #  CLOUD SQL
 # CLOUD SPANNER
 #  DATAPROC
+##  Migrating
 https://cloud.google.com/solutions/migration/hadoop/hadoop-gcp-migration-overview
+https://www.youtube.com/watch?v=rr0eEfKiQrE
+
+
+--------
+
+#  GCS
+https://cloud.google.com/storage/
+https://cloud.google.com/storage-transfer-service
+
+#  PUBSUB
+https://cloud.google.com/pubsub/architecture
+
+https://cloud.google.com/pubsub/docs/faq#duplicates
+
+
+
+
+
+#  DATAFLOW
+https://beam.apache.org/documentation/programming-guide/#windowing
+https://beam.apache.org/documentation/programming-guide/#windowing
+
+https://cloud.google.com/dataflow/docs/resources
+
+
+##  GUDIE
+https://cloud.google.com/blog/products/gcp/guide-to-common-cloud-dataflow-use-case-patterns-part-1
+
+
+
+
+#  BIGQUERY
+
+https://cloud.google.com/bigquery/docs/loading-data#loading_encoded_data
+
+
+https://cloud.google.com/bigquery/docs/loading-data
+https://cloud.google.com/bigquery/docs/bq-command-line-tool
+https://cloud.google.com/bigquery/docs/reference/bq-cli-reference
+https://cloud.google.com/bigquery/external-data-sources
+
+
+
+https://airflow.incubator.apache.org/integration.html#bigquerycreateemptytableoperator
+https://airflow.incubator.apache.org/integration.html#googlecloudstoragetobigqueryoperator
+
+
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/wildcard-table-reference
+
+
+
+
+https://cloud.google.com/bigquery/docs/best-practices-performance-patterns
+https://www.youtube.com/watch?v=ZVgt1-LfWW4&t=1160s
+
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax#explicit-alias-visibility
+
+
+
+
+
+#  BIGTABLE
+https://cloud.google.com/bigtable/docs/go/cbt-overview
+https://cloud.google.com/bigtable/docs/installing-hbase-shell
+
+
+#  PUBSUB
+https://cloud.google.com/pubsub/docs/ordering
+
+https://www.jesse-anderson.com/2016/07/apache-kafka-and-google-cloud-pubsub/
+
+
+#  SPANNER
+
+https://cloud.google.com/spanner/docs/monitoring
+https://cloud.google.com/bigtable/docs/monitoring-instance
+
+
+
+#  DATAPROC
+https://cloud.google.com/dataproc/docs/concepts/connectors/cloud-storage
+
+
+#  BIGTABLE
+https://cloud.google.com/bigtable/docs/schema-design
+
+https://cloud.google.com/bigtable/docs/schema-design-time-series#ensure_that_your_row_key_avoids_hotspotting
+
+
+#  IAM SECURITY  BILLING
+
+https://cloud.google.com/iam/docs/job-functions/billing
+
+
+
 
