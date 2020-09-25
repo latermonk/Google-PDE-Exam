@@ -97,6 +97,6 @@ DB COMPARISON Google Cloud Bigtable vs Google Cloud Datastore [http://stackoverf
 
 #  CLOUD SQL
 # CLOUD SPANNER
-#  CLOUD DATAPROC
-
+#  DATAPROC
+https://cloud.google.com/solutions/migration/hadoop/hadoop-gcp-migration-overview
 
