@@ -205,13 +205,13 @@ https://cloud.google.com/iam/docs/job-functions/billing
 ----------
 
 
-https://beam.apache.org/get-started/beam-overview/
-https://cloud.google.com/dataflow/docs/concepts/beam-programming-model
-https://cloud.google.com/dataflow/docs/concepts/beam-programming-model
-https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline
-https://beam.apache.org/documentation/programming-guide/
-https://academo.org/demos/estimating-pi-monte-carlo/
-https://en.wikipedia.org/wiki/Monte_Carlo_method
+https://beam.apache.org/get-started/beam-overview/  
+https://cloud.google.com/dataflow/docs/concepts/beam-programming-model  
+https://cloud.google.com/dataflow/docs/concepts/beam-programming-model  
+https://cloud.google.com/dataflow/docs/guides/deploying-a-pipeline  
+https://beam.apache.org/documentation/programming-guide/  
+https://academo.org/demos/estimating-pi-monte-carlo/  
+https://en.wikipedia.org/wiki/Monte_Carlo_method  
 https://cloud.google.com/dataproc/docs/guides/submit-job
 https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/autoscaling
 https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/cluster-properties
