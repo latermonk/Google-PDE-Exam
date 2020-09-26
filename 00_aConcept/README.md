@@ -168,6 +168,12 @@ https://cloud.google.com/bigtable/docs/go/cbt-overview
 https://cloud.google.com/bigtable/docs/installing-hbase-shell
 
 
+https://cloud.google.com/bigtable/docs/modifying-instance
+https://cloud.google.com/bigtable/docs/modifying-instance#upgrade-development-inst
+
+
+
+
 #  PUBSUB
 https://cloud.google.com/pubsub/docs/ordering
 
